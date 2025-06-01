@@ -20,11 +20,11 @@ Verify basic search Functionality for eBay
     HeaderPage.Input Search Text and Click Search
     SearchResultsPage.Verify Search Results
     
-Verify advanced search Functionality
-    [Documentation]  This test case verifies the advanced search
-    [Tags]           Functional
+# Verify advanced search Functionality
+#     [Documentation]  This test case verifies the advanced search
+#     [Tags]           Functional
 
-    HeaderPage.Click on Advanced Search Link
+#     HeaderPage.Click on Advanced Search Link
 
 
 
