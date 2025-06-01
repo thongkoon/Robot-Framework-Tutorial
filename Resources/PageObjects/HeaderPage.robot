@@ -18,4 +18,4 @@ Input Search Text and Click Search
     Click Element    ${SEARCH_BUTTON}  
 
 Click on Advanced Search Link
-    Click Element     ${ADVANCED_SEARCH_LINK}
+    Click Element     link=${ADVANCED_SEARCH_LINK}
