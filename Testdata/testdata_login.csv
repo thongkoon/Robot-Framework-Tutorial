@@ -1,0 +1,5 @@
+${username};${password};${error_message}
+;;Epic sadface: Username is required
+standard_us;secret_sauce;Epic sadface: Username and password do not match any user in this service
+standard_user;wrong_password;Epic sadface: Username and password do not match any user in this service
+wrong_user;wrong_password;Epic sadface: Username and password do not match any user in this service
